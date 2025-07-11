@@ -22,7 +22,7 @@ const Footer = () => {
   const contact = [
     {
       icon: <Mail className="w-4 h-4" />,
-      text: "consulting@clintel.com"
+      text: "info@clintel.ai"
     },
     {
       icon: <Phone className="w-4 h-4" />,

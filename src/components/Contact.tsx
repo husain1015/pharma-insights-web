@@ -44,7 +44,7 @@ const Contact = () => {
     {
       icon: <Mail className="w-5 h-5 text-accent" />,
       title: "Email",
-      detail: "consulting@clintel.com",
+      detail: "info@clintel.ai",
       description: "Primary contact for all inquiries"
     },
     {
