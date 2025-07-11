@@ -51,17 +51,17 @@ const Expertise = () => {
     },
     {
       icon: <Database className="w-8 h-8 text-accent" />,
-      title: "Data & Analytics",
-      description: "Advanced analytical capabilities and data science",
+      title: "Disease Progression Modeling",
+      description: "Advanced disease progression and longitudinal modeling",
       items: [
-        "Machine Learning",
-        "Real-World Evidence",
-        "Biomarker Analysis",
-        "Exposure-Response Modeling",
+        "Logistic Regression Models",
+        "Time-to-Event Analysis",
+        "Mixed Effects Markov Models",
+        "Tumor Growth Models",
         "Survival Analysis",
-        "Bayesian Methods",
-        "Clinical Trial Simulation",
-        "Meta-Analysis"
+        "Joint Models",
+        "Disease Natural History",
+        "Biomarker Progression"
       ]
     },
     {
@@ -101,7 +101,7 @@ const Expertise = () => {
     "Physiologically-Based PK (PBPK)",
     "Quantitative Systems Pharmacology",
     "Exposure-Response Analysis",
-    "Model-Based Meta-Analysis",
+    "Disease Progression Modeling",
     "Clinical Trial Simulation",
     "Dose-Finding Optimization",
     "Bioequivalence Analysis"

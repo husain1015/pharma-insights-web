@@ -55,30 +55,6 @@ const Hero = () => {
             </Button>
           </div>
 
-          {/* Key Stats */}
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-3xl mx-auto animate-fade-in">
-            <div className="text-center">
-              <div className="flex items-center justify-center w-12 h-12 bg-accent/20 rounded-lg mx-auto mb-3">
-                <BarChart3 className="w-6 h-6 text-accent" />
-              </div>
-              <div className="text-2xl font-bold text-white mb-1">500+</div>
-              <div className="text-white/80 text-sm">Analyses Completed</div>
-            </div>
-            <div className="text-center">
-              <div className="flex items-center justify-center w-12 h-12 bg-accent/20 rounded-lg mx-auto mb-3">
-                <TrendingUp className="w-6 h-6 text-accent" />
-              </div>
-              <div className="text-2xl font-bold text-white mb-1">15+</div>
-              <div className="text-white/80 text-sm">Years Experience</div>
-            </div>
-            <div className="text-center">
-              <div className="flex items-center justify-center w-12 h-12 bg-accent/20 rounded-lg mx-auto mb-3">
-                <Zap className="w-6 h-6 text-accent" />
-              </div>
-              <div className="text-2xl font-bold text-white mb-1">100%</div>
-              <div className="text-white/80 text-sm">FDA Compliant</div>
-            </div>
-          </div>
         </div>
       </div>
 
