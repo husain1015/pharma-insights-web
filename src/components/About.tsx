@@ -53,7 +53,7 @@ const About = () => {
           <div>
             <div className="inline-flex items-center gap-2 bg-accent/10 text-accent rounded-full px-4 py-2 text-sm font-medium mb-6">
               <Users className="w-4 h-4" />
-              About PharmaMetricsPro
+              About Clintel
             </div>
             
             <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-6">
@@ -62,7 +62,7 @@ const About = () => {
             </h2>
             
             <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
-              PharmaMetricsPro is a premier pharmacometric consulting firm founded by industry veterans 
+              Clintel is a premier pharmacometric consulting firm founded by industry veterans 
               who understand the complexities of modern drug development. Our team combines decades of 
               experience in clinical pharmacology, biostatistics, and regulatory affairs.
             </p>

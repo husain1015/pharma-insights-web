@@ -22,7 +22,7 @@ const Footer = () => {
   const contact = [
     {
       icon: <Mail className="w-4 h-4" />,
-      text: "consulting@pharmametricspro.com"
+      text: "consulting@clintel.com"
     },
     {
       icon: <Phone className="w-4 h-4" />,
@@ -41,7 +41,7 @@ const Footer = () => {
           {/* Company Info */}
           <div className="lg:col-span-1">
             <h3 className="text-2xl font-bold mb-4">
-              PharmaMetrics<span className="text-accent">Pro</span>
+              Clintel
             </h3>
             <p className="text-primary-foreground/80 mb-6 leading-relaxed">
               Premier pharmacometric consulting for biopharma, delivering world-class 
@@ -119,7 +119,7 @@ const Footer = () => {
         {/* Bottom Section */}
         <div className="flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="text-primary-foreground/80 text-sm">
-            © {currentYear} PharmaMetricsPro. All rights reserved.
+            © {currentYear} Clintel. All rights reserved.
           </div>
           <div className="flex gap-6 text-sm">
             <a href="#" className="text-primary-foreground/80 hover:text-accent transition-colors duration-300">
